@@ -1,0 +1,2 @@
+cd C:\Users\*someuser*\Desktop\ffmpeg-master-latest-win64-gpl\ffmpeg-master-latest-win64-gpl\bin
+ffmpeg -i BAACAgIAAxkBAAIFC2TRRbYmPakodJ6iKYKPH6tbf-npAAI6PAACePeJSiuePQ6MSBvzMAQ.mp4 -c:v libvpx-vp9 -vf scale=512:512 -an BAACAgIAAxkBAAIFC2TRRbYmPakodJ6iKYKPH6tbf-npAAI6PAACePeJSiuePQ6MSBvzMAQ.webm
